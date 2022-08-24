@@ -1,2 +1,2 @@
-# dio-challenge
-Desafio de Projeto sobre Git/Github
+# Desafio de Projeto sobre Git/GitHub
+Desafio: meu primeiro repositório no Github
